@@ -2,6 +2,5 @@
 
 ## Functioning Routes
 
-### /colorgenerator
-
-### /counter
+/colorgenerator
+/counter
